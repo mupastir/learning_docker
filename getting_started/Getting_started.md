@@ -67,8 +67,8 @@ ___
 
 **Check docs**
 
-1. Download script `wget -qO- [https://get.docker.com/](https://get.docker.com/) | sh`
-1. run `sudo usermod -aG docker <your-user>
+1. Download script `wget -qO-` [https://get.docker.com/](https://get.docker.com/)` | sh`
+1. run `sudo usermod -aG docker <your-user>`
 
 ___
 
