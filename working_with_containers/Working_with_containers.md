@@ -1,8 +1,8 @@
 # What is container
 ___
 
-![](working_with_containers/img/container-desc.png)
-![](working_with_containers/img/container-depth-desc.png)
+![](/working_with_containers/img/container-desc.png)
+![](/working_with_containers/img/container-depth-desc.png)
 
 ___
 
@@ -33,16 +33,17 @@ Containers <-> Running Images
 
 To remove containren - `docker rmi <container-name>`
 
-## Docker container ~LIFECYCLE~
+## Docker container *LIFECYCLE*
 
 - `docker start <cintainer>`
 - `docker stop <container>`
 - `docker rm <container>`
 
 
-![](working_with_containers/img/containers-lifecycle.png)
-![](working_with_containers/img/container-ports.png)
-![Images level](working_with_containers/img/container-images-level.png)
+![](/working_with_containers/img/containers-lifecycle.png)
+![](/working_with_containers/img/container-ports.png)
+**Images level**
+![](/working_with_containers/img/container-images-level.png)
 
 Container often is single process constructs.
 
