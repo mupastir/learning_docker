@@ -1,6 +1,6 @@
 # Swarm mode and microservices
 
-##Terminology##
+## Terminology
 
 - A cluster = A swarm
 
