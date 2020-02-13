@@ -1,10 +1,10 @@
 # What is container
-___
+______
 
 ![](/working_with_containers/img/container-desc.png)
 ![](/working_with_containers/img/container-depth-desc.png)
 
-___
+______
 
 **Main commands list:**
 
@@ -14,7 +14,7 @@ ___
 - `docker run` - to run a container
 - `docker ps` - to see running and stopped containers
 
-___
+______
 
 Installing Docker gives you the **client** and **daemon**
 
@@ -33,7 +33,7 @@ Containers <-> Running Images
 
 To remove containren - `docker rmi <container-name>`
 
-## Docker container *LIFECYCLE*
+## Docker container **LIFECYCLE**
 
 - `docker start <cintainer>`
 - `docker stop <container>`
@@ -50,4 +50,28 @@ Container often is single process constructs.
 Stop all docker containers: `docker stop $(docker ps -aq)`
 Remove all containers: `docker rm $(docker ps -aq)`
 Remove all images: `docker rmi $(docker images -q)`
+
+______
+
+![](/working_with_containers/img/container-modernize-apps.png)
+
+Stoping and restarting container don't destroy any data
+
+`CTRL+P+Q` - exit without destroying the main process
+
+## Logging
+
+Linux:
+- systemd:
+	- journalctl -u docker.service
+- Non-systemd:
+	Try /var/log/messages
+
+Windows:
+	~/AppData/Local/Docker
+
+
+![](/working_with_containers/img/container-logging.png)
+
+
 
