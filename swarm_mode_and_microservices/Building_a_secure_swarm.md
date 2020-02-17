@@ -21,4 +21,17 @@
 - Configure a new Root CA on the leader
 	- Configure a 90 day certificate rotation period
 
+**Lock your Swarm wiyh Autolock**
+
+`docker swarm update --autolock=true`
+
+## Orchestaration 
+
+![](/swarm_mode_and_microservices/img/swarm-orchestration.png)
+
+## Recap
+
+![](/swarm_mode_and_microservices/img/swarm-secure-recap.png)
+
+
 
