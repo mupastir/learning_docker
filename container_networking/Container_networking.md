@@ -12,10 +12,10 @@ ______
 
 ## Network services
 
-![](/container_networking/network_services.png)
+![](img/network-services.png)
 ______
 
 
 ## Recap
 
-![](/container_networking/network-recap.png)
+![](img/network-recap.png)
