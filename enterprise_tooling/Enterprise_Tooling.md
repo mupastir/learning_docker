@@ -12,5 +12,5 @@
 
 ## Recap
 
-![](/enterprise_tooling/img/recap.img)
+![](/enterprise_tooling/img/recap.png)
 
