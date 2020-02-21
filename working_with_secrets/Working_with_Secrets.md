@@ -4,3 +4,4 @@
 
 **Note!** Universal Controle plane
 
+![](img/secrets-big-picture.png)
