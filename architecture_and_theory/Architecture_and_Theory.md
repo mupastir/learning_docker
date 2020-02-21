@@ -25,16 +25,16 @@ Container - has its own group of namespaces (its secure)
 - Grouping processes
 - Imposing resource limits
 
-![](/archictecture_and_theory/img/architecture-kernel-internals.png)
+![](img/architecture-kernel-internals.png)
 
 ## The Docker Engine
 
-![](/archictecture_and_theory/img/architecture-docker-engine.png)
+![](img/architecture-docker-engine.png)
 
 ## Windows Containers
 
-![](/archictecture_and_theory/img/architecture--containers-windows.png)
-![](/archictecture_and_theory/img/architecture--containers-windows-1.png)
+![](img/architecture-containers-windows.png)
+![](img/architecture-containers-windows-1.png)
 
 
 
